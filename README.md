@@ -1,6 +1,8 @@
 # Robot_Planning_A-star_VFH
 
-Implemented A-star(for global planning) and Vector Field Histogram (for local planning) for a differential drive robot to autonomously plan and execute path using observations from a Lidar sensor.
+The project involves planning and navigation of a differential drive robot from arbitrary start point to arbitrary destination point on a map with obstacles. 
+Implemented A-star for global planning of the robot and Vector Field Histogram (VFH) for local planning of the robot
+Planning is done based on observations from a LIDAR sensor
 
 # How to run
 
