@@ -14,3 +14,6 @@ Planning is done based on observations from a LIDAR sensor
 6. Source the bash file of the workspace
 7. make the files executable if required (cmd: chmod +x "file name")
 8. Run "pa2.launch" file
+
+# Project demonstration video link
+https://www.youtube.com/watch?v=mGrkJ41o3G4&feature=youtu.be
